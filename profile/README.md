@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="240" src="https://cdn.imgpile.com/f/eMHqY3b_xl.png">
+  <img src="https://cdn.imgpile.com/f/eMHqY3b_xl.png">
 </p>
 
 ## 🌟 About Sahara Scripters
@@ -11,7 +11,7 @@ Welcome to Sahara Scripters! We create high-quality free and premuim scripts for
 - 🛒 **Check out our [Tebex Store](https://saharascripters.tebex.io/)** for a wide range of high-quality free and premium scripts to enhance your FiveM server.
 
 ## 📚 Documentation
-🔍 **Explore our [Documentation](https://saharascripters.gitbook.io/docs)** for everything you need to get started with our scripts and tools. 📚 Stay informed and make the most out of what we offer!
+🔍 **Explore our [Documentation](https://saharascripters.gitbook.io/docs)** for everything you need to get started with our scripts and tools.
 
 ## 🌐 Connect With Us
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kQxzuyqnkR)
